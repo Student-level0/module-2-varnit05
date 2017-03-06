@@ -11,7 +11,7 @@ Draw an image, change it's properties, respond to mouse click
 
 ### TEACHER NOTES
  
- Needs reasource: org.jointheleague.level_0.tasty_tomato.TastyTomato
+ Needs resource: org.jointheleague.level_0.tasty_tomato.TastyTomato
 
 
 
