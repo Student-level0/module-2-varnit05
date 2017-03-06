@@ -3,8 +3,7 @@
 /** 
 We’re going to make a face with animated eyes. 
 You could use your own face (take a picture with photobooth) or a zombie, a cat, or whatever you like. 
-The eyes should be prominent. e
-Here’s one I made earlier: http://school.wintrisstech.org/zombie_naomi/web-export/
+The eyes should be prominent.
  
 0. Start a new sketch with setup() and draw() methods.
 
