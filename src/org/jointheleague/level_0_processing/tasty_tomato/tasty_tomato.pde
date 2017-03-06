@@ -1,11 +1,4 @@
-/** Copyright The League of Amazing Programmers 2013-2017
-Level 0
-Tasty Tomato
-Duration=.5
-Platform=Processing
-Type=Instructions
-Objectives=Processing practice
-*/
+
 
 Here is some code that draws a tomato…
 
