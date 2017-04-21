@@ -1,11 +1,4 @@
-/** Copyright The League of Amazing Programmers 2013-2017
-Level 0
-Pizza	
-Duration=1.0
-Platform=Processing
-Type=Recipe
-Objectives=ellipse, fill, images, sounds & mouse commands
-*/
+
 
 /**
 Start a new sketch with draw and setup methods.
